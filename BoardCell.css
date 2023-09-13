@@ -1,0 +1,12 @@
+.BoardCell{
+    width:auto;
+    border-radius: 6px;
+    position: relative;
+}
+.Sparkle{
+    position: absolute;
+    z-index: 10;
+    width: 6px;
+    height: 6px;
+    border-radius: 4px 4px;
+}

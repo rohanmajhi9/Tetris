@@ -1,0 +1,10 @@
+.Button{
+    font-size: 2em;
+    border-radius: 20px;
+    box-shadow: black;
+    cursor: pointer;
+}
+.Menu{
+    display: block;
+    align-items: center;
+}
